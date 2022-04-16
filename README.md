@@ -1,4 +1,4 @@
-### Simple Node.js REST API.
+### Simple Node.js REST API documentation.
 
 - Ensure you have [Node.js](https://nodejs.org/en/) installed on your computer.
 
@@ -6,6 +6,13 @@
 
 ```bash
 npm install
+npm run dev
 ```
 
-- Consume the API from [Postman](https://www.postman.com/)
+-To start the app run the below command
+
+```bash
+npm run dev
+```
+
+-On your browser of choice past `http://localhost:4000/api-docs` you should have everything is ok.
